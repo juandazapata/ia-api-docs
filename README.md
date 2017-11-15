@@ -1,3 +1,5 @@
+# Deprecated. Use this instead https://github.com/indeedassessments/api-documentation
+
 # Indeed Assessments API
 
 **WARNING: THE API IS STILL UNDER CONSTRUCTION AND SOME RESPONSES AND
